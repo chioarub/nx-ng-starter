@@ -120,7 +120,7 @@
   },
   "resolutions": {
     "colors": "1.4.0",
-    "webpack": "5.75.0"
+    "webpack": "5.76.0"
   },
   "dependencies": {
     "@angular/animations": "15.2.1",
@@ -309,7 +309,7 @@
     "typescript": "4.9.5",
     "util": "0.12.5",
     "web-animations-js": "2.3.2",
-    "webpack": "5.75.0",
+    "webpack": "5.76.0",
     "webpack-bundle-analyzer": "4.8.0",
     "webpack-dev-server": "4.11.1",
     "webpack-merge": "5.8.0",
